@@ -346,7 +346,6 @@ ARMPIT,Hairy,Shave,Deodorant,Sweat,Odor
 ERASER,Pencil,Tip,Chalkboard,Rubber,Pink
 MEXICO,Taco,Burrito,Enchilada,Spicy,Country
 COTTON,Material,Clothes,Wear,Cool,Sew
-STEVEN,Marine,Asian,Cute,Sager,Bitches
 CLIFF,Edge,Diving,Climbing,Rock,Wall
 SICK,Medicine,Doctor,Pills,Diagnose,Bed
 HOTSHOT,Fire,Wildfire,Water,Firefighter,Department
@@ -446,7 +445,6 @@ PAVEMENT,Road,Asphalt,Alternative Rock,Driveway,Tar
 MOUNT,Grow,Enlarge,Rise,Multiply,Build
 PERIODIC TABLE,Elements,Chemistry,Metals,Science,Compounds
 SWOT,Geek,Study,Hard Working,Memorize,Try Hard
-A,B,C,D,Ef,G
 UNIMPEDED,Open,Clear,Free,Unblocked,Unobstructed
 WHITE,Apron,Paints,Chair,Coverlet,Paper-Bag
 COMEDIANS,Performance,Carlin,Rivers,Rock,Cook
@@ -547,7 +545,6 @@ OPEN,Closed,Book,Shop,Free,Welcome
 MANNEQUIN,Doll,Puppet,Display,Wood,Cloth
 VENICE,Italy,Gondolas,Canals,Water,City
 SARDINES,Tin,Packed,Tightly,Small,Fish
-GRIMOIRE,Magic,Spell,Book,Wizard,Tome
 TUBE SOCK,Feet,White,Black,Foot,Soft
 PIECE,Pie,Cake,Slice,Fraction,Math
 LAWN,Grass,Garden,Yard,Mow,Front
@@ -564,7 +561,6 @@ SPINACH,Green,Leafy,Vegetable,Edible,Salads
 COMFORTING,Assisting,Remedy,Comfortable,Reassure,Uncomfortable
 PRONOUN,Personal,Replace,Noun,Demonstrative,Intensive
 THE SUN,Heat,Distance,Star,Source Of Energy,Light
-TILDA,Faggot,Wanker,Bell End,Retard,Snitch
 KNUCKLES,Fingers,Hand,Bones,Joints,Crack
 DECIMAL,Point,Zero,Numbers,Maths,Algebra
 FRIGHTEN,Alarm,Panic,Scare,Startle,Terrify
@@ -694,7 +690,7 @@ YEAR,Time,Month,Birthday,Numbers,Date
 SICILY,Italy,Island,Oranges,Lemons,Olives
 TRANSPARENT,Solid,Substance,Container,Glassware,Glass
 BIKINI,Beach,Babes,Chicks,Hot,Bra
-CRACKERS,White,Racist,European,Smelly,Pale
+CRACKERS,White,Racist,European,Graham,Pale
 WEREWOLF,Vampire,Twilight,Full Moon,Silver Bullet,Dog
 BANDAGE,Sore,Wrap,Arround,Sprang,Ancle
 SOCIOLOGY,People,Social,Groups,Interaction,Behavior
@@ -739,7 +735,6 @@ SNOWMOBILE,Snow,Vehicle,Ski,Track,Cold
 FREAK,Super,Weird,Wacky,Show,Friday
 BUDGIE,Bird,Pet,Animal,Parrot,Chirp
 DUM,Mom,Dad,Sister,Brother,Dog
-POSITIVISM,Auguste Comte,Scientific,Empirical,Knowledge,Objective
 JELLYFISH,Sea,Dangerous,Poisonous,Slimy,Octopus
 JOKE,Laughter,Funny,Fun,Proud,Verbal
 SQUEAK,Mouse,Rust,Gate,Oil,Grease
@@ -768,7 +763,6 @@ CURTAIN,Furniture,Window,House,Dining,Hooks
 CASUAL,Relaxed,Friday,Suit,Dress Code,Informal
 VOLCANO,Lava,Mountain,Ash,Fire,Erupt
 BOOMBOX,Eighties,Shoulder,Music,Loud,Carry
-FUGU,Fish,Japan,Poison,Spiky,Puff
 GOBBLE,Turkey,Thanksgiving,Leg,Dark,Meat
 HELP,Sos,Assist,Need,Accomplish,Call
 SOCKS,Feet,Athletic,Dress,Coverings,Tube
@@ -835,7 +829,6 @@ EVAPORATE,Water,Boil,Steam,Rain,Hot
 BALLERINAS,Shoes,Ballet,Black Swan,Opera,Dance
 GOD,Jesus,Jerusalem,Died,Suffered,King
 EXPLORATION,Explore,Discover,See,Probe,Investigate
-GANGA,Slut,Whore,Slurry,Bitch,Hooker
 VISITOR,Friend,Holidays,Guest,Foreign,Stay
 HULK,Green,Dr. Banner,Angry,Gamma Ray,Purple
 DISCOVERY,Channel,Discover,Nature,Animal,Watch
@@ -901,7 +894,6 @@ STAMINA,Strength,Juice,Oxygen,Tired,Weak
 CALCULUS,Function,Math,School,Differential,Class
 CREATE,Produce,Write,Make,Start,Spawn
 ORNAMENT,Ball,Hang,Tree,Christmas,Decorate
-CAROLINE,Ugly,Railroads,Fat,Melody,Loser
 BEARD,Man,Hair,Chin,Grow,Boy
 DUMB,Smart,Stupid,Idiot,Intelligent,G W Bush
 CANDLE,Fire,Light,Scented,Wick,Wax
@@ -962,7 +954,6 @@ CIGARETTE,Smoke,Quit,Filter,Pack,Carton
 WINTER,Season,Christmas,Snow,December,Cold
 STRAP,Bra,Spaghetti,String,On,Watch
 PREFER,Like,Choice,Alternative,Want,Favour
-ABORTION,Baby,Murder,Women,Kill,Pregnant
 GOODS,Product,Truck,Items,Sales,Purchase
 SLINKY,Toy,Plastic,Coil,Stairs,Cylindrical
 TEMPLE,God,Worship,Mosque,Church,Ram
@@ -1029,7 +1020,6 @@ DUCT,Air,Metal,Hollow,Heat,Ac
 TATTOO,Skin,Ink,Permanent,Design,Needles
 ETHICS,Honest,Money,Interest,Integrity,Lying
 DIVINE,God,Music,Spiritual,Bless,Yoga
-EFFIE,Capital,Shoes,Clothes,Hunger Games,Makeup
 PROJECT,Project Manager,Funding,Budget,Scope,Architect
 VEST,Under Garments,Clothes,Strips,Underwear,Stomach
 FALCON,Captain,Bird,Punch,Hunter,Fly
@@ -1071,7 +1061,6 @@ CHALK,Colors,Sidewalk,Pavement,Writing Utensil,Write
 SPICE,Strong,Curry,Kitchen,Aroma T,Order
 LAUGH,Joke,Riddle,Funny,Smile,Frown
 BROOK,Creek,River,Trickle,Water,Babble
-ALEXANDRIA,Pretty,Black Hair,Dances,Awesome,Girl
 INDUSTRY,Auto,Food,Shoe,Technology,Steel
 IN,Clear,Trash,Pope,Pastor,Africa
 STRATOSPHERE,Air,Earth,Layer,Atmosphere,Space
@@ -1161,7 +1150,6 @@ KETCHUP,Sauce,Tomato,Red,Food,French Fries
 BOXERS,Underwear,Men,Fighter,Short,Plaid
 SWAP,Hedge,Interest Rate,Trade,Risk,Exchange
 CINGULAR,Cell,Phone,Wireless,Network,Roam
-SOLILOQUY,This,Is,A,English,Term
 POOL,Water,Swim,Chlorine,Blue,Like Bowl
 SCRABBLE,Letters,Words,Dictionary,Tile,Board Game
 CEILING,Roof,Floor,Ground,Height,Above
@@ -1391,7 +1379,6 @@ YUCK,Slang,Disgusting,Dirty,Yum,Dislike
 SWERVE,Cut,Sheer,Skew,Veer,Chop
 ARCHAEOLOGY,Baulk Walls,Dig,Indiana Jones,Artefact,History
 AQUARIUM,Water,Tank,Glass,Fish,Aquatic
-PERIOD,Days,Blood,Tampon,Pad,Women
 EGO,Conceit,Vanity,Vain,Narcissism,Pride
 LUNATIC,Crazy,Psycho,Help,Psychiatrist,Toons
 MOMMY,Love,Nice,Supportive,Woman,Birth
@@ -1403,7 +1390,6 @@ MANKIND,Humanity,Race,God,World,Person
 CHASTISE,Punish,Correct,Shame,Reprimand,Beat
 PARTNER,Share,Activity,Member,Relation,Fellow
 COMEDIAN,Funny,Stand,Up,Joke,Teller
-SURCEASE,Arrest,Belay,Cease,Stay,Stop
 GARDEN,Gnome,Rabbit,Carrot,Fence,Hoe
 DISSEMBLANCE,Act,Disguise,Pretense,Sham,Show
 NIKON,Camera,Picture,Photography,Develop,Lens
@@ -1481,13 +1467,11 @@ FROSTING,Icing,Cake,Spread,Cupcake,Chocolate
 FORSWEAR,Yield,Cede,Demit,Surrender,Waive
 BOOZE,Alcohol,Beer,Spirits,Wino,Drunk
 PURGE,Eradicate,Liquidate,Remove,Eliminate,Wipe
-BLOWJOBS,Your,Mom,Does It,All,The Time
 BOARDWALK,Beach,Atlantic City,Funnel Cake,Sand,Rides
 BEAGLES,Tri Colour,Size(S),Dog Or Puppy,Drink And Eat,Bark Or Howl
 CALYPSO,Caribbean,Song,Mighty Sparrow,Island,Genre
 GLAMOUR,Famous,Fame,Rich,Attention,Lavish
 DOMINOES,Pizza,Take Away,Game,Cheese,Italian
-ASS,Bottom,Rare,Body,Donkey,Hole
 INDEX,Cards,Filing,Finger,Sorting,Desire
 MONARCHY,Absolute,Government,Hereditarian,Divine Reagent,Supremacy Of One Man
 MITOSIS,Cell,Divide,Two,Chromosomes,Identical
@@ -1523,7 +1507,6 @@ NIECE,Nephew,Aunt,Uncle,Girl,Daughter
 BEDROOM,Sleep,Bed,Rest,Mattress,Cover
 CROUTON,Salad,Bread,Crunchy,Lettuce,Caesar
 LAMP,Light,On,Off,Bright,Standing
-SWEAT SHIRT,Clothes,Hoodie,Oversize,College,Workout
 FEMINISM,Lesbians,Women,Equality,Vote,Patriarchy
 ITALY,Leaning Tower,Rome,Venice,Leonardo De Vinci,Pizza
 FREEWAY,Cars,Fast,Trucks,Carpool,Transportation
@@ -1537,7 +1520,6 @@ MOBILES,Messaging,Camera,Calling,Music,Video
 VISOR,Hat,Golf,Sun,Wear,Head
 CLUB,DJ,Music,Dance,Night,Going Out
 BONE,Break,Cast,Boot,Heal,Body
-KERFUFFLE,Bitch,Bad,Terrifying,Lazy,People
 ROOTS,Tree,Grow,Tv Show,Plant,Weeds
 WRINKLE,Old,Clothes,Face,Forehead,Iron
 WAITER,Restaurant,Receipt,Food,Service,Tip
@@ -1560,7 +1542,6 @@ CAMP,Tent,Woods,Lamps,Fire,Summer
 DIVISION,Agency,Arm,Branch,Organ,Department
 CROSS,Jesus,Addition,Tick,Buns,Symbol
 PARENT,Love,Guardian,Birth,Mother,Father
-MUSANG,Civet,Fruits,Nocturnal,Malaysia,Endangered
 LOST,Found,Missing,M.I.A,Tv Show,Find
 TV,Heroes,Lost,Desperate Housewives,The Oc,Csi
 OBLIGATION,Job,Need,Commitment,Charge,Burden
@@ -1613,7 +1594,6 @@ HOCKEY,Checking,Penalty,Boards,Ice,Puck
 MUSTACHE,Hair,Lip,Up,Face,Men
 PIMPLE,Pop,Pore,Pus,Acne,Teenagers
 BOUNCE,Hop,Skip,Jump,Up,Boing
-IMAGE,Laura,E,E,E,E
 LOLLIPOP,Lick,Ice-cream,Lolly,Stick,Android
 IMMIGRATION,Airport,Separation,Penalties,Citizenship,Residency
 WHAT,How,Why,Where,Who,That
@@ -1749,7 +1729,6 @@ SQUASH,Plant,Sport,Pumpkin,Eat,Crush
 WHOLLY,All,Completely,Altogether,Totally,Just
 JUSTIFY,Excuse,Rationalize,Explain,Vindicate,Account For
 AUTHOR,Book,Write,Name,Pen,Mark Twain
-INCESTS,A Game,The Whole,Family,Can,Play
 TRANSCRIPT,Grades,Marks,School,College,Job
 NAPKIN,Tissue,Wipe,Soft,Square,Cleans
 SURFER,Ocean,Waves,Board,Beach,Dude
@@ -1766,8 +1745,6 @@ ANECDOTE,Story,Fun,Orate,Lines,Interview
 SOLUBILITY,Solute,Solvent,Solution,Dissolve,Mixture
 PUZZLE,Game,Brain,Think,Mystery,Pieces
 AFFECTION,Love,Feelings,Care,Kind,Marriage
-FOGEY,Old,Man,Dodo,Fossil,Ancient
-OKAPI,Zebra,Giraffe,Long Tongue,Stripes,Animal
 TEETOTALLER,Person,Drink,Alcohol,Sober,Drunk
 FIT,Sexy,Cute,Beauty,Good Looking,Thin
 PLUMMETED,Plunge,Decline,Decrease,Down,Crash
@@ -1886,7 +1863,6 @@ SHARK,Big Teeth,See,Fish,Ocean,Dangerous
 ARGUMENT,Fight,Anger,Yell,Quarrel,Couple
 EXPRESS,Pineapple,Fast,Highway,Lane,Car
 VOTE,Ballot,Cast,Election,Office,Nominate
-ASYNDETON,Polysyndeton,Conjunction,Omission,Clause,Related
 DARTS,Board,Target,Throw,Game,Bar
 TREE,Oak,Willow,Maple,Birch,Lime
 RIDICULOUS,Silly,Crazy,Nuts,Whacky,Funny
@@ -1897,7 +1873,6 @@ HORN,Car,Beep,Honk,Steering Wheel,Hit
 TIGERS,Stained,Clean,Dirty,Fast,Slow
 NECK TIE,Knot,Bow,Suit,Man,Shirt
 SOCIAL WORKER,Agent,Care And Concern,Worker,Change,Person
-FENNEL,Anise,Bulb,Licorice,Sausage,Herb
 BECAUSE,Reason,Why,Answer,Excuse,Explain
 AUSTRIA,Mozart,Vienna,Skiing,Sound Of Music,Pastries
 CHECKERS,Argument,Argument,Argument,Melissa Joan-Hart,Argument
@@ -1950,7 +1925,6 @@ OFFICER,Post,Police,Guard,Office,Desk
 CALM,Alay,Balm,Lull,Still,Quiet
 CORN,Flakes,Baby,Oil,Food,Spagetti
 COLLECTIBLES,Toys,Kids,Childish,Babies,Fun
-BASKERVILLE,Curse,Sherlock,Watson,Dogs,Drunken
 STAFF,Bark,Cute,Breed,Bull,Four Legs
 GRAIN,Food,Wheat,Grown,Field,Ingredient
 TENDON,Band,Cord,Ligament,Tissue,Elastic
@@ -2032,7 +2006,6 @@ POETRY,Verse,Rhymes,Alliteration,Poet,Keats
 QUESTION,Ask,Answer,Interrogate,Period,Mark
 FRYING,Greasy,Fatty,Skillet,Cooking,Oil
 POLO SHIRT,Buttons,School,Short Sleeve,Long Sleeve,Top
-LOVERS,Rectangles,Relations,Cats,The Office,Spray Paint
 FIST,Hand,Fingers,Punch,No,Actions
 NEST,Bird,Egg,Tree,Fly,Bird Breeds
 PULVERIZE,Ground,Powder,Mill,Bray,Crush
@@ -2080,7 +2053,6 @@ OPTIMISTIC,Opinion,Thinking,Perspective,Good,Attitude
 ROSE,Flower,Red,Love,Romantic,Date
 OPERATE,Function,Perform,Act,Behave,Work
 DELETE,Erase,Remove,Keyboard,Eradicate,Eliminate
-BRIDGET,Sister,Jack,Pony,Five,Family
 DOWN,Up,Sideways,Sad,Dumps,Direction
 NAP,Sleep,Short,Relax,Day,Tired
 SPECIAL,Unique,One,Only,Very,Important
@@ -2114,13 +2086,11 @@ WORSE,Less,Good,Better,More,Bad
 DONUT,Hole,Shop,Coffee,Glazed,Powdered
 HEATER,Metal,Warm,Winter,Rectangular,Holes
 SAILBOAT,Boat,Sail,Lake,Wind,Pirate
-TARRY,Pause,Stay,Abide,Wait,Linger
 RECTANGLE,Square,Shape,Four,Quadrilateral,Tv
 DIME,Ten,Penny,Nickel,Quarter,Change
 BICYCLE,Wheels,Transport,Ride,Pedal,Bike
 GEOPHYSICS,Planets,Earth,Seismic,Sucks,Andrea
 FINGERNAILS,Hand,Paint,Body,Grow,Long
-PIDDLE,Pee,Urine,Tinkle,Toilet,Piss
 PEE,Waste,Yellow,Liquid,Bladder,Toilet
 KISS,Smack,Tongue,Romance,Lips,Smooch
 INGENUITY,Cleverness,Inventive,Intelligence,Skill,Talent
@@ -2135,7 +2105,6 @@ CYCLE,Repeated,Sequence,Process,Complete,Circle
 PERSIAN,Prince,Iran,Cat,Empire,Dance
 VOMIT,Spew,Mouth,Alcohol,Sick,Bucket
 TACOS,Tortilla,Beef,Beans,Food,Mexican
-MOIRA,Actress,Insane,Crazy,Hair,Loud
 SKYDIVING,Jump,Plane,Fall,Parachute,Flying
 THIMBLE,Sew,Needle,Prick,Finger,Thread
 X,Cancel,Delete,Efface,Erase,Undo
@@ -2154,14 +2123,12 @@ BASEMENT,Downstairs,Storage,House,Home,Finish
 MOURNING,Death,Funeral,Shiva,Cemetery,Grief
 PHOTON,Pouches,Energy,Light,Space,Packets
 REPRODUCE,Breed,Procreation,Proliferation,Spawn,Increase
-ERIKA,Sexy,Fine,Beautiful,Gorgeous,Lady
 HILARIOUS,Funny,Laughing,Joke,Comedian,Giggle
 FLU,Swine,Illness,Sick,Hospital,Shot
 METABOLISM,Liver,Breakdown,Skinny,Older,Slow
 AGLET,Tip,Shoelace,Plastic,Tube,Small
 SAUCE,Tomato,Salsa,Spaghetti,Noodle,Tortilla
 TRACTOR,Disc,Trailer,Farming,Plow,Vehicle
-DIARRHOEA,Shit,Toilet,Liquid,Constipation,Stomachache
 HEAVY,Vehicle,Van,Truck,Train,Plane
 JUVENILES,Arrested,Kids,Crime,Young,Bad
 SEND,Address,Forward,Route,Ship,Dispatch
@@ -2174,7 +2141,6 @@ HOUSECOAT,Warm,Fuzzy,Pajamas,Comfy,Long
 LIQUID,Water,Juice,Soup,Sauce,Mercury
 DASTARD,Chicken,Craven,Funk,Poltroon,Coward
 SUSCEPTIBLE,Prone,Subject,Open,Vulnerable,Liable
-CRUCIFIXION,Cross,Thieves,Jesus,Kill,Death
 TRANSISTOR,Legs,Three,Emitter,Collector,Base
 STRAIGHT,Arrow,Line,Parallel,Forward,Flush
 CUBICLE,Workplace,Cubicle,Doorless,Walls,Grouping
@@ -2187,8 +2153,6 @@ LETTER,Long,Short,Nice,Good,Bad
 PLUTO,Comet,Solar,Planet,Little,Dog
 FLEE,Hair,Fly,Blood,Insect,David
 BOTTLE,Tube,Formula,Drink,Baby,Nipple
-BALNEOLOGY,Bath,Study,Science,Therapeutic,Soothing
-HOOKAH,Smoke,Tobacco,Flavor,Pipe,Water
 GOLIATH,Giant,Big,Philistine,David,Stone
 BACKPACKING,Hike,Woods,Bag,Trip,World
 EXHAUST,Pipe,Petrol,Fuel,Car,Gas
@@ -2198,7 +2162,6 @@ STRIKE,Demonstration,Unions,Workers,Money,Protest
 MEDITERRANEAN,Sea,Italy,Greece,Africa,Europe
 LARD,Does,This,Check,For,Errors
 HAEMOGLOBIN,Blood,Iron,Nutrition,Test,Weak
-REBECCA,Annoying,Playful,Young,Fun,Happy
 KETTLE,Tea,Water,Boil,Electric,Cup
 PICKET,Strike,Fence,Rally,Line,Work
 PIGEON,Bird,Peace,White,Dove,Small
@@ -2491,7 +2454,6 @@ SERIAL KILLER,Murder,Hannibal,Crazy,Kill,Catch
 AL CAPONE,Mob,Mafia,Prohibition,Alcohol,Bootleg
 EAST,Sunrise,Asia,Russia,West,New York
 HILLARY CLINTON,First Lady,President,Secretary Of State,Bill,Election
-FRENCH KISS,Lips,Make Out,Tongue,Party,Mouth
 PIPE ORGAN,Church,Music,Hymn,Play,Piano
 STEWARDESS,Plane,Serve,Order,Air,Food
 POKER,Card,Face,Gamble,Bluff,Hold
